@@ -1,0 +1,24 @@
+
+{
+  "language": "es",
+  "stopwords": [
+    "de", "la", "que", "el", "en", "y", "a", "los", "del",
+    "se", "las", "por", "un", "para", "con", "no", "una",
+    "su", "al", "es", "lo", "como", "más", "pero", "sus",
+    "le", "ya", "o", "este", "esta", "entre", "cuando",
+    "muy", "sin", "sobre", "también", "me", "hasta", "hay",
+    "donde", "quien", "desde", "todo", "todos", "ser"
+  ],
+  "positive_words": [
+    "bueno", "buena", "excelente", "feliz", "genial",
+    "positivo", "positiva", "encanta", "éxito", "mejor",
+    "agradable", "fantástico", "fantastica"
+  ],
+  "negative_words": [
+    "malo", "mala", "terrible", "triste", "error",
+    "negativo", "negativa", "odio", "fracaso", "peor",
+    "difícil", "problema", "horrible"
+  ],
+  "max_keywords": 5,
+  "max_summary_sentences": 2
+}
